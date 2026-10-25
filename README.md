@@ -31,7 +31,7 @@ I am an all-around engineer operating across the entire technology stack—handl
 
 ### 📌 Featured R&D & Commercial Projects
 
-* 🚀 **[PBLang](https://github.com/PanosBiazis)** — Sovereign Full-Stack, Systems, AI/Quantum & Hardware Programming Language ecosystem (Compiler, Runtime, PBIDE, Standard Libraries).
+* 🚀 **[PBLang](https://github.com/PanosBiazis/pblang)** — Sovereign Full-Stack, Systems, AI/Quantum & Hardware Programming Language ecosystem (Compiler, Runtime, PBIDE, Standard Libraries).
 * 🤖 **pb-mcp-server** — Model Context Protocol (MCP) server and AI tooling written in **Rust**.
 * 📊 **FIN.I.S. & bsclose** *(Specisoft S.A.)* — Portfolio optimization (Markowitz / Neural Networks), automated balance sheet closing, and Greek GAAP (ELP) financial reporting systems.
 * 📱 **[Spotit Project](https://github.com/PanosBiazis/spotit-project)** — Native Android application built with **Kotlin** & Coroutines.
